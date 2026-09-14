@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 86" role="img" aria-labelledby="title desc">
+  <title id="title">Navis Management</title><desc id="desc">Navis Management logo</desc>
+  <polygon points="8,18 92,4 92,42 8,52" fill="#2be0d2"/>
+  <polygon points="8,52 92,42 64,78 8,68" fill="#073f55"/>
+  <polygon points="92,42 64,78 64,42" fill="#0b5961"/>
+  <text x="112" y="34" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700">Navis</text>
+  <text x="112" y="62" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700">Management</text>
+</svg>
